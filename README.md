@@ -18,6 +18,7 @@ We are under development but have a frontend ready at https://0xgo.fund under Go
 
 - [Cartesi Pool - Explorer](https://explorer.cartesi.io/stake/0xf22dbcf128c394b067f484fe78586fef86846834)
 - [DApp](https://0xgo.fund)
+- [GitBook](https://0xgo-fund.gitbook.io/docs/staking-to-help)
 
 ## Socials & Contact
 
